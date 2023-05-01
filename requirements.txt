@@ -1,4 +1,4 @@
-Flask==1.0.3
+Flask==2.3.2
 Redis==3.2.1
 flake8==3.7.7
 pytest==4.6.4
